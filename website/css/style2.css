@@ -1,5 +1,5 @@
 body {
-  background-color: #e6cca4;
+  background-color: #fff;
   color: #555;
   font-size: 16px;
   line-height: 1.6em;
@@ -13,12 +13,12 @@ body {
 }
 
 #main-header {
-  background-color: #fadfb4;
+  background-color: #8f9779;
   color: #fff;
 }
 
 #navbar {
-  background-color: #333;
+  background-color: #738678;
   color: #fff;
 }
 
@@ -39,8 +39,9 @@ body {
 }
 
 #showcase {
-  background-image: url(../images/Border-Terrier-HP-long.jpg);
-  background-position: center right;
+  background-image: url(../images/Benji1.jpeg);
+  background-position: center;
+  background-size: cover;
   min-height: 300px;
   margin-bottom: 30px;
   text-align: center;
@@ -48,9 +49,9 @@ body {
 
 #showcase h1 {
   color: #fff;
-  font-size: 50px;
+  font-size: 5vw;
   line-height: 1.6em;
-  padding-top: 30px;
+  padding-top: 175px;
 }
 
 #main {
